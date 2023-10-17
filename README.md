@@ -1,0 +1,2 @@
+# mamiscript
+Mamiscript
